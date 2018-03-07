@@ -10,4 +10,6 @@ http://www.efectoapple.com/introduccion-storyboard-parte-2/
 
 https://www.efectoapple.com/introduccion-los-storyboards-parte-3/
 
+![alt text](https://raw.githubusercontent.com/luisrollongordo/LRGAdvancedTaskManager/master/5.png)
+
 
